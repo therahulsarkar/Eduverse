@@ -1,0 +1,50 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^4.29.9",
+    "@emotion/react": "^11.11.4",
+    "@headlessui/react": "^1.7.18",
+    "@kinde-oss/kinde-auth-nextjs": "^2.2.2",
+    "@material-tailwind/react": "^2.1.9",
+    "@monaco-editor/react": "^4.6.0",
+    "@next/third-parties": "^14.1.4",
+    "@supabase/supabase-js": "^2.39.8",
+    "@tremor/react": "^3.15.0",
+    "@vercel/analytics": "^1.2.2",
+    "@vercel/speed-insights": "^1.0.10",
+    "firebase": "^10.9.0",
+    "next": "14.1.3",
+    "next-pwa": "^5.6.0",
+    "razorpay": "^2.9.2",
+    "react": "^18",
+    "react-apexcharts": "^1.4.1",
+    "react-awesome-reveal": "^4.2.8",
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "^18",
+    "react-fast-marquee": "^1.6.4",
+    "react-hot-toast": "^2.4.1",
+    "react-just-parallax": "^3.1.16",
+    "react-quiz-component": "^0.8.1",
+    "react-terminal-ui": "^1.2.0",
+    "scroll-lock": "^2.1.5",
+    "shortid": "^2.2.16",
+    "swiper": "^8.4.5",
+    "typewriter-effect": "^2.21.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
